@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Projetos/churn-prediction/notebooks/../mlruns/717968301452550072/37043aee65b74c15868c9d090d1d8a4c/artifacts
+end_time: 1780864299568
+entry_point_name: ''
+experiment_id: '717968301452550072'
+lifecycle_stage: active
+run_id: 37043aee65b74c15868c9d090d1d8a4c
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780864293780
+status: 3
+tags: []
+user_id: Paulo

@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Projetos/churn-prediction/notebooks/../mlruns/717968301452550072/32379a1bda40460388351fc65e698e30/artifacts
+end_time: 1780864306712
+entry_point_name: ''
+experiment_id: '717968301452550072'
+lifecycle_stage: active
+run_id: 32379a1bda40460388351fc65e698e30
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780864299574
+status: 3
+tags: []
+user_id: Paulo

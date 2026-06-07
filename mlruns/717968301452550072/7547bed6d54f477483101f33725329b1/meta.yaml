@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Projetos/churn-prediction/notebooks/../mlruns/717968301452550072/7547bed6d54f477483101f33725329b1/artifacts
+end_time: 1780864311436
+entry_point_name: ''
+experiment_id: '717968301452550072'
+lifecycle_stage: active
+run_id: 7547bed6d54f477483101f33725329b1
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780864306718
+status: 3
+tags: []
+user_id: Paulo

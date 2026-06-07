@@ -1,0 +1,10 @@
+artifact_location: file:c:/Projetos/churn-prediction/notebooks/../mlruns/717968301452550072/models/m-af431725ebd34a75b476c61658f81fa2/artifacts
+creation_timestamp: 1780864313443
+experiment_id: '717968301452550072'
+last_updated_timestamp: 1780864317499
+model_id: m-af431725ebd34a75b476c61658f81fa2
+model_type: null
+name: LightGBM
+source_run_id: b5031b54d29f471687e183a0369180fd
+status: 2
+status_message: null

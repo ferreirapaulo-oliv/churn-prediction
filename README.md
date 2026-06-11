@@ -15,6 +15,7 @@
 Python · Scikit-learn · XGBoost · LightGBM · SHAP · MLflow · Optuna · Streamlit · Pandas · Plotly
 
 ## Estrutura do projeto
+```
 churn-prediction/
 ├── notebooks/
 │   ├── 01_exploratoria.ipynb
@@ -26,13 +27,18 @@ churn-prediction/
 ├── data/figures/
 ├── models/
 └── requirements.txt
+```
 
 ## Como rodar
+
+```bash
 git clone https://github.com/ferreirapaulo-oliv/churn-prediction
 cd churn-prediction
-python -m venv venv && venv\Scripts\activate
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
+```
 
 ## Screenshots
 

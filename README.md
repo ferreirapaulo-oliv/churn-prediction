@@ -55,4 +55,3 @@ streamlit run app/streamlit_app.py
 - Contrato mensal tem churn ~42% vs ~3% no contrato de 2 anos
 - tenure baixo + MonthlyCharges alto = maior risco
 - SHAP confirma Contract e tenure como features mais impactantes
- Adicione pelo menos 2 screenshots do app Streamlit no README — projetos

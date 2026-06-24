@@ -1,9 +1,0 @@
-artifact_location: file:c:/Projetos/churn-prediction/notebooks/../mlruns/717968301452550072
-creation_time: 1780864293561
-effective_trace_archival_retention: null
-experiment_id: '717968301452550072'
-last_update_time: 1780864293561
-lifecycle_stage: active
-name: churn-prediction
-trace_location: null
-workspace: default
